@@ -26,7 +26,7 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 I should get (16) out of 20 on this assignment.
 
 ## Self-Reflection:
-For me this assignment has been somewhat of a struggle. My knowledge on coding is limited so the instructions and steps given weren't very clear to me. I was able to figure out the issues I was facing but am not fully understanding why or how it operates. Both my tests and test suites have 1 fail, but I'm not too sure how to fix it. Another thing I am struggling with is understanding how Github works. The steps aren't the most clear but I'm hoping I can figure it out as the semester continues. I'm not sure I got the Github host to work. 
+For me this assignment has been somewhat of a struggle. My knowledge on coding is limited so the instructions and steps given weren't very clear to me. I was able to figure out the issues I was facing but am not fully understanding why or how it operates. Both my tests and test suites have 1 fail, but I'm not too sure how to fix it. Another thing I am struggling with is understanding how Github works. The steps aren't the most clear but I'm hoping I can figure it out as the semester continues. My file appears and runs in Visual Studio but I'm not sure I got the Github host to work. 
 
 ### How long it took me to finish this?
 It took me 2 hours to complete this assignment. I'm not sure I completed all the steps correctly but I wanted to submit what I was able to do. 
