@@ -19,7 +19,7 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
   - assigning classes and IDs properly.
   - Styling the page using classes and IDs in the css file.
 - [ ] The Web page is hosted on GitHub Pages. (3 Points)
-- [ ] Proper usage of git and GitHub and making frequent commits (3 points).
+- [x] Proper usage of git and GitHub and making frequent commits (3 points).
 - [x] Pull request is submitted. (3 points)
 
 <!--- Update the following line with your grade --->
